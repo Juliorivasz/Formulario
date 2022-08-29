@@ -1,6 +1,6 @@
-Hemos visto que para enseñar mensajes de error podemos utilizar el atributo title. En JavaScript también es posible tratar los errores de validación utilizando la propiedad validity del input, como utilizamos en la validación customizada del campo “fecha de nacimiento”
+link original de la pagina: https://juliorivasz.github.io/Formulario/registro.html
 
-link  de la pagina: https://juliorivasz.github.io/Formulario/registro.html
+Hemos visto que para enseñar mensajes de error podemos utilizar el atributo title. En JavaScript también es posible tratar los errores de validación utilizando la propiedad validity del input, como utilizamos en la validación customizada del campo “fecha de nacimiento”
 
 ¿Cómo adicionar un mensaje customizado de error para validaciones que no estén en los padrones de HTML?
 
